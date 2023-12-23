@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "776740716579",
+    "firebase_url": "https://universel-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "universel-db",
+    "storage_bucket": "universel-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776740716579:android:416271f6af5f9b1e207196",
+        "android_client_info": {
+          "package_name": "com.mycompany.spinbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHHqaYXIMjzTnpMZ8W9LTa-cq935JF6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776740716579:android:b1e379ef5872bc65207196",
+        "android_client_info": {
+          "package_name": "firebaseflutterflow.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHHqaYXIMjzTnpMZ8W9LTa-cq935JF6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
